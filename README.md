@@ -23,7 +23,10 @@ The Travel App allows customers to search for locations they want to travel base
 
 Once the customers have filtered the database (DataFrame) based on their temperature preferences, a heatmap will be showed to them for the maximum temperature for the filtered cities around the world.
 
+![WeatherPy_Vacation_map](https://github.com/rachanamule/World_Weather_Analysis/blob/dcce143220a878060dd15ba49e6c4fd6b60a4d1a/Vacation_Search/WeatherPy_vacation_map.png)
 
 A weather description to the pop-up markers will be displayed for customers so that they know what the weather is as they are traveling.
+![WeatherPy_travel_map_markers](https://github.com/rachanamule/World_Weather_Analysis/blob/dcce143220a878060dd15ba49e6c4fd6b60a4d1a/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 A map that shows the directions between multiple cities for customers’ travel itinerary will be displayed.
+![WeatherPy_travel_map](https://github.com/rachanamule/World_Weather_Analysis/blob/dcce143220a878060dd15ba49e6c4fd6b60a4d1a/Vacation_Itinerary/WeatherPy_travel_map.png)
